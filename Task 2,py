@@ -1,0 +1,7 @@
+# Shopping Cart
+Cart = []
+Cart.append("Sticky Notes")
+Cart.append("Daily Planner")
+Cart.append("Pen")
+print("Final Shopping Cart:")
+print(Cart)
